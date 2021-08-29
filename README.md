@@ -4,7 +4,7 @@ I'm very new to figuring out branches, so I'm not 100% sure I did the content-te
 
 Otherwise, no issues on this assignment.
 
-##Resources
+## Resources
 
-*FlexBox Lecture notes from Advanced Web 1
-*Markdown Commands: https://guides.github.com/features/mastering-markdown/
+* FlexBox Lecture notes from Advanced Web 1
+* Markdown Commands: https://guides.github.com/features/mastering-markdown/
